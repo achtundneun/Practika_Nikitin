@@ -1,0 +1,7 @@
+D:\проекты Visual Studio\Praktika_Nikitin\Praktika_Nikitin\bin\Debug\Praktika_Nikitin.exe.config
+D:\проекты Visual Studio\Praktika_Nikitin\Praktika_Nikitin\bin\Debug\Praktika_Nikitin.exe
+D:\проекты Visual Studio\Praktika_Nikitin\Praktika_Nikitin\bin\Debug\Praktika_Nikitin.pdb
+D:\проекты Visual Studio\Praktika_Nikitin\Praktika_Nikitin\obj\Debug\Praktika_Nikitin.csproj.AssemblyReference.cache
+D:\проекты Visual Studio\Praktika_Nikitin\Praktika_Nikitin\obj\Debug\Praktika_Nikitin.csproj.CoreCompileInputs.cache
+D:\проекты Visual Studio\Praktika_Nikitin\Praktika_Nikitin\obj\Debug\Praktika_Nikitin.exe
+D:\проекты Visual Studio\Praktika_Nikitin\Praktika_Nikitin\obj\Debug\Praktika_Nikitin.pdb
